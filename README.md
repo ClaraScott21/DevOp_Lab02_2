@@ -161,6 +161,7 @@ Emoji:
 
 :mask:
 
+
 # DevOp Lab02
 
 ## Repository Owner
@@ -168,3 +169,8 @@ Emoji:
 - Student ID: 682115513
 
 ## Friend Information
+
+### Nina
+- Name: Nina
+- Student ID: 682115047
+
